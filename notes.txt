@@ -1,0 +1,10 @@
+npm install react-intersection-observer
+
+npm install clsx
+
+npm install framer-motion
+
+
+npm install react-icons
+
+npm i react-vertical-timeline-component
